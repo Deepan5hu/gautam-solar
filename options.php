@@ -30,7 +30,7 @@
             <a href="gen-proposals.php" class="btn btn-lg btn-success" role="button" aria-pressed="true">Generate Proposal</a>
             <a href="" class="btn btn-lg btn-warning" role="button" aria-pressed="true">Create Account</a>
             <a href="" class="btn btn-lg btn-primary" role="button" aria-pressed="true">Add Card</a>
-            <a href="" class="btn btn-lg btn-success" trole="button" aria-pressed="true">Button</a>
+            <a href="cal-capacity.php" class="btn btn-lg btn-success" role="button" aria-pressed="true">Calculate Capacity Required</a>
         </div>
     </section>
     <main></main>
